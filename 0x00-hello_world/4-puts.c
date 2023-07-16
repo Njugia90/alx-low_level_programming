@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
  *main - main entry point
  *return : always 0 (success)
